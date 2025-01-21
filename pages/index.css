@@ -5,3 +5,7 @@
 @import url(../blocks/lead.css);
 @import url(../blocks/intro.css);
 @import url(../blocks/footer.css);
+
+.content {
+  margin: 0 auto;
+}
