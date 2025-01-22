@@ -28,6 +28,8 @@
   margin-top: 64px;
   height: auto;
   width: 100%;
+  src: "../images/__image.jpg";
+  alt: "Imagem de paisagem";
 }
 @media screen and (max-width: 784px) {
   .lead {
@@ -48,6 +50,8 @@
   .lead__image {
     width: 100vw;
     margin-top: 30px;
+    src: "../images/image-1.jpg";
+    alt: "Imagem de paisagem";
   }
 }
 
@@ -70,5 +74,7 @@
   .lead__image {
     width: 100vw;
     margin-top: 40px;
+    src: "../images/image.jpg";
+    alt: "Imagem de paisagem";
   }
 }
