@@ -133,17 +133,13 @@
   .places__image {
     object-fit: contain;
   }
-  .places__gradient {
-    /* Add styles for .places__gradient here */
-  }
+
   .places__gradient_text {
     font-size: 18px;
     font-weight: 600;
     line-height: 21.78px;
   }
-  .places__website {
-    /* Add styles for .places__website here */
-  }
+
   .places__url-heading {
     font-size: 12px;
     font-weight: 400;
@@ -156,9 +152,7 @@
     font-weight: 400;
     line-height: 22px;
   }
-  .places__paragraphs {
-    /* Add styles for .places__paragraphs here */
-  }
+
   .places__paragraph {
     font-size: 16px;
     font-weight: 400;
