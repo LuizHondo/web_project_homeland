@@ -52,6 +52,13 @@
   align-items: center;
   justify-content: center;
   grid-area: "website";
+  color: white;
+  text-decoration: none;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.78px;
+  text-align: left;
 }
 .places__gradient:hover {
   background: linear-gradient(
@@ -193,6 +200,10 @@
     width: 90%;
     border-radius: 4px;
     display: flex;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16.94px;
+    text-align: center;
   }
   .places__gradient_text {
     font-size: 14px;

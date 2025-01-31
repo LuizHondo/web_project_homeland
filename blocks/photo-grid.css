@@ -24,8 +24,6 @@
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(4, 1fr);
   }
-  .photo-grid__item {
-  }
 }
 @media screen and (max-width: 320px) {
   .photo-grid {
